@@ -136,42 +136,6 @@ include_once 'templates/header-html.inc.php';
     </div>
 </section>
 
-<!-- ======= Footer ======= -->
-<section class="container-fluid">
-    <div class="row px-5 mb-5 footer-info">
-        <div class="col-12 col-md-4 mt-5">
-            <h3 class="pb-2">FixMastery</h3>
-            <p>Medellin, Colombia</p>
-            <p><b><i class="bi bi-telephone-fill"></i> Celular: </b>+57 300 290 9333</p>
-            <p><b><i class="bi bi-envelope-check-fill"></i> Email: </b>e.javiergalvis@gmail.com</p>
-        </div>
-        <div class="col-12 col-md-4 mt-5">
-            <h5 class="pb-2">Enlaces &Uacute;tiles</h5>
-            <p><a class="links-footer" href="#home"><i class="bi bi-house"></i> Inicio</a></p>
-            <p><a class="links-footer" href="#about-us"><i class="bi bi-people-fill"></i> Sobre Nosotros</a></p>
-            <p><a class="links-footer" href="#faq"><i class="bi bi-question-circle-fill"></i> Preguntas Frecuentes</a></p>
-            <p><a class="links-footer" href="#services"><i class="bi bi-info-circle"></i> Servicios</a></p>
-        </div>
-        <div class="col-12 col-md-4 mt-5">
-            <h5 class="pb-2">Síguenos</h5>
-            <p>Descubre más en nuestras redes sociales. Únete hoy para acceder a contenido exclusivo y estar al tanto de nuestras últimas novedades.</p>
-            <h1> 
-                <button type="button" class="btn btn-primary"><i class="bi bi-facebook"></i></button> 
-                <button type="button" class="btn btn-danger"><i class="bi bi-instagram"></i></i></button> 
-                <button type="button" class="btn btn-success"><i class="bi bi-whatsapp"></i></button> 
-        </div>
-    </div>
-</section>
 
-<!-- ======= CopyRight ======= -->
-
-<section class="container-fluid">
-    <div class="row">
-        <div class="col text-center copy">
-            <p>© Copyright fixmastery.com All Rights Reserved</p>
-            <p>Designed by Javier Galvis</p>
-        </div>
-    </div>
-</section>
 
 <?php include_once 'templates/end-html.inc.php'; ?>
