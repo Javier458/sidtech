@@ -11,7 +11,7 @@ include_once 'templates/header-html.inc.php';
 <?php include_once 'templates/nologin-navbar.inc.php'; ?>
 
 <!-- ======= Hero ======= -->
-<section class="container-fluid">
+<section class="container-fluid" id="home">
     <div class="row align-items-center contain-hero px-5">
       <div class="col-12 col-lg-6 px-1 order-2 order-lg-1">
         <h1 class="px-5 hero-text">Sistema de Gesti&oacute;n de Servicio T&eacute;cnico</h1> 
@@ -36,7 +36,7 @@ include_once 'templates/header-html.inc.php';
 </section>
 
 <!-- ======= About Us ======= -->
-<section class="container-fluid py-5 mb-5">
+<section class="container-fluid py-5 mb-5" id="about-us">
     <h1 class="text-center">SOBRE NOSOTROS</h1>
     <div class="row cont-about-us my-5 mx-5 fs-6">
         <div class="col-12 col-lg-6 px-5">
@@ -56,7 +56,7 @@ include_once 'templates/header-html.inc.php';
 </section>
 
 <!-- ======= FAQ ======= -->
-<section class="container-fluid shadow-lg py-5 mb-5">
+<section class="container-fluid shadow-lg py-5 mb-5" id="faq">
     <div class="row">
         <div class="col-12 col-lg-6">
         <h1 class="text-center pb-5">PREGUNTAS FRECUENTES</h1>
@@ -100,7 +100,7 @@ include_once 'templates/header-html.inc.php';
 </section>
 
 <!-- ======= Services ======= -->
-<section class="container-fluid">
+<section class="container-fluid" id="services">
     <div class="row services-row mb-5">
         <h1 class="text-center mb-4">SERVICIOS</h1>
         <div class="col-6 col-lg-3 service-card">
@@ -129,7 +129,6 @@ include_once 'templates/header-html.inc.php';
 <!-- ======= Call to action ======= -->
 <section class="container-fluid callaction">
     <div class="row align-items-center px-5 mx-5 callaction-info">
-        
         <div class="col-9">
         <h1>Automatiza tu negocio</h1>    
         <p>Optimiza tu servicio técnico con nuestra solución todo-en-uno. Controla reparaciones, gestiona clientes y mejora la eficiencia. ¡Descubre cómo simplificar tu proceso hoy!</p></div>
@@ -138,7 +137,41 @@ include_once 'templates/header-html.inc.php';
 </section>
 
 <!-- ======= Footer ======= -->
+<section class="container-fluid">
+    <div class="row px-5 mb-5 footer-info">
+        <div class="col-12 col-md-4 mt-5">
+            <h3 class="pb-2">FixMastery</h3>
+            <p>Medellin, Colombia</p>
+            <p><b><i class="bi bi-telephone-fill"></i> Celular: </b>+57 300 290 9333</p>
+            <p><b><i class="bi bi-envelope-check-fill"></i> Email: </b>e.javiergalvis@gmail.com</p>
+        </div>
+        <div class="col-12 col-md-4 mt-5">
+            <h5 class="pb-2">Enlaces &Uacute;tiles</h5>
+            <p><a class="links-footer" href="#home"><i class="bi bi-house"></i> Inicio</a></p>
+            <p><a class="links-footer" href="#about-us"><i class="bi bi-people-fill"></i> Sobre Nosotros</a></p>
+            <p><a class="links-footer" href="#faq"><i class="bi bi-question-circle-fill"></i> Preguntas Frecuentes</a></p>
+            <p><a class="links-footer" href="#services"><i class="bi bi-info-circle"></i> Servicios</a></p>
+        </div>
+        <div class="col-12 col-md-4 mt-5">
+            <h5 class="pb-2">Síguenos</h5>
+            <p>Descubre más en nuestras redes sociales. Únete hoy para acceder a contenido exclusivo y estar al tanto de nuestras últimas novedades.</p>
+            <h1> 
+                <button type="button" class="btn btn-primary"><i class="bi bi-facebook"></i></button> 
+                <button type="button" class="btn btn-danger"><i class="bi bi-instagram"></i></i></button> 
+                <button type="button" class="btn btn-success"><i class="bi bi-whatsapp"></i></button> 
+        </div>
+    </div>
+</section>
 
+<!-- ======= CopyRight ======= -->
 
+<section class="container-fluid">
+    <div class="row">
+        <div class="col text-center copy">
+            <p>© Copyright fixmastery.com All Rights Reserved</p>
+            <p>Designed by Javier Galvis</p>
+        </div>
+    </div>
+</section>
 
 <?php include_once 'templates/end-html.inc.php'; ?>

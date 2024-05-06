@@ -49,6 +49,26 @@
     height: 100%;
 }
 
+.links-footer{
+    text-decoration: none;
+    color: #000000;
+}
+
+.links-footer:hover{
+    color: #333366;
+    text-decoration: underline;
+}
+
+.copy{
+    background-color: #333366;
+    color: #EBEBEB;
+}
+
+.copy p{
+    margin: 0;
+    padding: 0;
+}
+
 @media screen and (max-width: 992px){
     .contain-hero{
         height: 100vh;
