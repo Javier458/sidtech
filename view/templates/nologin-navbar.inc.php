@@ -13,7 +13,7 @@
     <div>
       <ul class="navbar-nav me-auto mx-2">
         <li class="nav-item px-2">
-          <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+          <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
         </li>
         <li class="nav-item px-2">
           <a class="nav-link" href="#">Contacto</a>
@@ -22,7 +22,7 @@
           <a class="nav-link disabled" href="#">Consulta de estado</a>
         </li>
         <li class="nav-item px-2">
-          <a class="nav-link" href="#">Reg&iacute;strate</a>
+          <a class="nav-link" href="register.php">Reg&iacute;strate</a>
         </li>
         <li class="nav-item px-2">
         <button class="btn btn-outline-light" type="submit"><i class="bi bi-person-fill"></i>&nbsp;Iniciar Sesi&oacute;n</button>
