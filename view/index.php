@@ -106,22 +106,22 @@ include_once 'templates/header-html.inc.php';
         <div class="col-6 col-lg-3 service-card">
             <h1><i class="bi bi-file-earmark-text-fill"></i></h1>
             <h4>Registro de Ordenes</h4>
-            <p class="pt-2">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <p class="pt-2">Registra órdenes, mejora atención. Simplifica proceso.</p>
         </div>
         <div class="col-6 col-lg-3 service-card">
         <h1><i class="bi bi-buildings-fill"></i></h1>
             <h4>Control de tu Negocio</h4>
-            <p class="pt-2">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <p class="pt-2">Domina tu negocio, optimiza cada detalle, crece sin límites.</p>
         </div>
         <div class="col-6 col-lg-3 service-card">
             <h1><i class="bi bi-cash-coin"></i></h1>
             <h4>Gesti&oacute;n de Ventas</h4>
-            <p class="pt-2">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <p class="pt-2">Dirige tus ventas con precisión, alcanza metas, supera expectativas.</p>
         </div>
         <div class="col-6 col-lg-3 service-card">
             <h1><i class="bi bi-gear-fill"></i></h1>
             <h4>Gesti&oacute;n de Servicios</h4>
-            <p class="pt-2">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <p class="pt-2">Administra tus servicios con eficiencia, brinda calidad, fideliza clientes.</p>
         </div>
     </div>
 </section>
