@@ -39,6 +39,16 @@
     background-color: #EBEBEB;
 }
 
+.callaction{
+    background-color: #333366;
+    height: 250px;
+    color: #EBEBEB;
+}
+
+.callaction-info{
+    height: 100%;
+}
+
 @media screen and (max-width: 992px){
     .contain-hero{
         height: 100vh;
