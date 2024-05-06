@@ -129,10 +129,10 @@ include_once 'templates/header-html.inc.php';
 <!-- ======= Call to action ======= -->
 <section class="container-fluid callaction">
     <div class="row align-items-center px-5 mx-5 callaction-info">
-        <div class="col-9">
+        <div class="col-12 col-sm-9">
         <h1>Automatiza tu negocio</h1>    
         <p>Optimiza tu servicio técnico con nuestra solución todo-en-uno. Controla reparaciones, gestiona clientes y mejora la eficiencia. ¡Descubre cómo simplificar tu proceso hoy!</p></div>
-        <div class="col-3 align-items-center"><button class="btn btn-outline-light" type="submit"><i class="bi bi-person-fill"></i> ¡Explora Ahora!</button></div>
+        <div class="col-12 col-sm-3 align-items-center"><button class="btn btn-outline-light" type="submit"><i class="bi bi-person-fill"></i> ¡Explora Ahora!</button></div>
     </div>
 </section>
 
