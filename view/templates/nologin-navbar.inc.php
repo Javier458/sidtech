@@ -16,7 +16,7 @@
           <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
         </li>
         <li class="nav-item px-2">
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" target="_blank" href="https://w.app/cZJ8LN">Contacto</a>
         </li>
         <li class="nav-item px-2">
           <a class="nav-link disabled" href="#">Consulta de estado</a>
