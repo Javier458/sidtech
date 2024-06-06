@@ -1,3 +1,70 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.contain-hero{
+    height: 550px;
+}
+
 label{
     margin-left:2%;
+}
+
+.hero-img{
+    max-height: 400px;
+    align-items: center;
+}
+
+.hero-img-container{
+    display: flex;
+    justify-content: center;    
+}
+
+@media screen and (max-width: 992px){
+    .contain-form{
+        margin-bottom: 250px;
+    }
+
+    .contain-hero{
+        height: 100vh;
+    }
+    .hero-img-container{
+        padding-top: 5rem;
+    }
+
+    .hero-text{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .contain-hero{
+        margin-bottom: 130px;
+    }
+
+    .contain-form{
+        margin-bottom: 500px;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .contain-form{
+        margin-bottom: 600px;
+    }
+
+    .hero-img{
+        max-height: 300px;
+    }
+
+    .hero-text{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 365px){
+    .hero-img{
+        max-height: 200px;
+    }
+
+    .hero-text{
+        text-align: center;
+    }
 }
