@@ -35,7 +35,7 @@ include_once 'templates/header-html.inc.php';
 
                 <div class="row">
                     <div class="col-12 col-md-6 form-floating mb-3">
-                        <input type="number" class="form-control" id="floatingInput" placeholder="30000000000" required>
+                        <input type="number" class="form-control" id="floatingInput" placeholder="3000000000" required>
                         <label for="floatingInput">WhatsApp / Celular</label>
                     </div>
                     <div class="col-12 col-md-6 form-floating mb-3">
