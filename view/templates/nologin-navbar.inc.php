@@ -25,7 +25,9 @@
           <a class="nav-link" href="register.php">Reg&iacute;strate</a>
         </li>
         <li class="nav-item px-2">
-        <button class="btn btn-outline-light" type="submit"><i class="bi bi-person-fill"></i>&nbsp;Iniciar Sesi&oacute;n</button>
+            <a href="login.php">
+              <button class="btn btn-outline-light"><i class="bi bi-person-fill"></i>&nbsp;Iniciar Sesi&oacute;n</button>
+            </a>
         </li>
       </ul>
     </div>
