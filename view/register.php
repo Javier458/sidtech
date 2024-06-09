@@ -94,3 +94,6 @@ include_once 'templates/header-html.inc.php';
 
 
 <?php include_once 'templates/end-html.inc.php'; ?>
+
+</body>
+</html>
