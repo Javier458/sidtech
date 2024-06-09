@@ -20,7 +20,7 @@ label{
 
 @media screen and (max-width: 992px){
     .contain-form{
-        margin-bottom: 250px;
+        margin-bottom: 450px;
     }
 
     .contain-hero{
@@ -37,7 +37,7 @@ label{
 
 @media screen and (max-width: 768px){
     .contain-hero{
-        margin-bottom: 130px;
+        height: 900px;
     }
 
     .contain-form{
@@ -47,7 +47,7 @@ label{
 
 @media screen and (max-width: 576px){
     .contain-form{
-        margin-bottom: 600px;
+        margin-bottom: 400px;
     }
 
     .hero-img{
